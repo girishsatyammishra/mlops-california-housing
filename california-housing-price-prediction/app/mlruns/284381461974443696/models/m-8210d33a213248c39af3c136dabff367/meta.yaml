@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Bits.NextStep/sem-3/Assignments/MLOps/california-housing-price-prediction/app/mlruns/284381461974443696/models/m-8210d33a213248c39af3c136dabff367/artifacts
+creation_timestamp: 1754063737822
+experiment_id: '284381461974443696'
+last_updated_timestamp: 1754063742239
+model_id: m-8210d33a213248c39af3c136dabff367
+model_type: null
+name: DecisionTreeRegressor
+source_run_id: d16d5b43a05f4e3d857e46f1739dac6e
+status: 2
+status_message: null

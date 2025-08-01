@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Bits.NextStep/sem-3/Assignments/MLOps/california-housing-price-prediction/app/mlruns/0/66c6c3a65b094e6ebd0371587b72b28b/artifacts
+end_time: 1754063517406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66c6c3a65b094e6ebd0371587b72b28b
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754063507854
+status: 3
+tags: []
+user_id: L&Q

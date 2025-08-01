@@ -1,0 +1,22 @@
+artifact_path: file:///D:/Bits.NextStep/sem-3/Assignments/MLOps/california-housing-price-prediction/app/mlruns/284381461974443696/models/m-d21c91cfa2334270b2e2ffe4fa2ab1ec/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.1.4
+model_id: m-d21c91cfa2334270b2e2ffe4fa2ab1ec
+model_size_bytes: 10108
+model_uuid: m-d21c91cfa2334270b2e2ffe4fa2ab1ec
+prompts: null
+run_id: d16d5b43a05f4e3d857e46f1739dac6e
+utc_time_created: '2025-08-01 15:55:42.322559'

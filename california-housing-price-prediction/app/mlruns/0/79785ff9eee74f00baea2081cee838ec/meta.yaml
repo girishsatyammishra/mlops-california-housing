@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Bits.NextStep/sem-3/Assignments/MLOps/california-housing-price-prediction/app/mlruns/0/79785ff9eee74f00baea2081cee838ec/artifacts
+end_time: 1754063719204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79785ff9eee74f00baea2081cee838ec
+run_name: DecisionTreeRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754063708597
+status: 3
+tags: []
+user_id: L&Q

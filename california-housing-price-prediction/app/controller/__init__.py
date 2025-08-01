@@ -1,0 +1,1 @@
+from .housing_price_prediction_controller import housing_price_prediction_router
