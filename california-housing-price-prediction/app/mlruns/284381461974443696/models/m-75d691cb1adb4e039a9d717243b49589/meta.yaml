@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Bits.NextStep/sem-3/Assignments/MLOps/california-housing-price-prediction/app/mlruns/284381461974443696/models/m-75d691cb1adb4e039a9d717243b49589/artifacts
+creation_timestamp: 1754063727062
+experiment_id: '284381461974443696'
+last_updated_timestamp: 1754063732222
+model_id: m-75d691cb1adb4e039a9d717243b49589
+model_type: null
+name: LinearRegression
+source_run_id: d7ff335be43b4e6bbdec94e6fd580fe4
+status: 2
+status_message: null

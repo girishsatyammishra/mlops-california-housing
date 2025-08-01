@@ -1,0 +1,1 @@
+from .housing_price_prediction_input import HousePricePredictionInput
